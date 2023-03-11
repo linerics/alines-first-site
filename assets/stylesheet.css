@@ -1,4 +1,6 @@
 #paragraph1 {
+  &p {
   color:red;
-  font-size:300px;
+  font-size:300px;}
+  
 }
