@@ -9,4 +9,8 @@ color:blue;
     font-size:50px;}
 }
 
-
+#background-div {
+background-color: black;
+  height: 1000px;
+width: 1000px;
+}
